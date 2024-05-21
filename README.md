@@ -5,7 +5,7 @@
 <p>This project is a fully responsive landing page for Flipkart, designed to provide a seamless user experience across different devices. The design follows modern UI/UX principles to enhance user engagement and accessibility.</p>
 
 ## Project Overview
-![Microsoft Landing Page Screenshot](./Flipkart.jpg)
+![Microsoft Landing Page Screenshot](./flipKart.jpg)
 
 <h2 id="technologies">Technologies Used</h2>
 <ul>
