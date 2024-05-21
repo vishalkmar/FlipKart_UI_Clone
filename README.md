@@ -4,12 +4,15 @@
 <h2 id="about">About</h2>
 <p>This project is a fully responsive landing page for Flipkart, designed to provide a seamless user experience across different devices. The design follows modern UI/UX principles to enhance user engagement and accessibility.</p>
 
+## Project Overview
+![Microsoft Landing Page Screenshot](./Flipkart.jpg)
+
 <h2 id="technologies">Technologies Used</h2>
 <ul>
     <li><strong>HTML5</strong> - For structuring the content.</li>
     <li><strong>CSS</strong> - For styling the content.</li>
     <li><strong>jQuery</strong> - For DOM manipulation and enhancing interactivity.</li>
-    <li><strong>Tailwind CSS</strong> - For utility-first CSS framework to rapidly build custom designs.</li>
+    <li><strong>Bootstrap</strong> - For utility-first CSS framework to rapidly build custom designs.</li>
 </ul>
 
 
@@ -18,7 +21,7 @@
     <li>Responsive design compatible with all screen sizes.</li>
     <li>Modern and clean user interface.</li>
     <li>Interactive elements using jQuery.</li>
-    <li>Customizable components using Tailwind CSS.</li>
+    <li>Customizable components using Bootstrap</li>
 </ul>
 
 <h2 id="installation">Installation</h2>
